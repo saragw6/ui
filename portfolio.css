@@ -32,7 +32,7 @@ a:hover {
 #header2 {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
-  color: white;
+  color: #E6E6E7;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ a:hover {
   display: inline;
   float: right;
   width: 50vw;
-  color: white;
+  color: #E6E6E7;
   margin: 4vw;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
