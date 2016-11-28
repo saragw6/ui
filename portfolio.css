@@ -63,7 +63,6 @@ a:hover {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  /*padding: 2vw;*/
 }
 
 @media (max-width: 670px) {
@@ -77,4 +76,9 @@ a:hover {
     text-align: center;
     font-size: 14px;
   }
+
+  img {
+  max-width: 70vw;
+  max-height: 70vw;
+}
 }
